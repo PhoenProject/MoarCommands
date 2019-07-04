@@ -15,7 +15,7 @@ Some of the SCP-096 commands can be buggy if used too close together (Such as co
 |:-------------:|:---------------:|:---------------:|
 | addexp | Value | Adds EXP to SCP-079 |
 | flicker | | Flickers the lights in LCZ and HCZ |
-| rslot | PlayerID/SteamID/Name | Grants a reserved slot to a player. Value can be either name, SteamId or PlayerID |
+| rslot | PlayerID/SteamID/Name | Grants a reserved slot to a player |
 | panic | | Places SCP-096 into a panic state (As if they had just been looked at) |
 | enrage | | Enrages SCP-096 (When they go super fast, and can break doors) |
 | cooldown | | Cools down SCP-096 from an enraged state (they can't be triggered) |
