@@ -1,0 +1,6 @@
+# IDEs
+/.vs/
+
+# Binaries
+/MoarCommands/obj/
+/MoarCommands/bin/
