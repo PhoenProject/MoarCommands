@@ -217,7 +217,7 @@ namespace MoarCommands
 				return new[] { "You are not whitelisted to use this command" };
 			}
 
-			return new[] { GetUsage() };
+			return new[] { "There is no SCP-096" };
 		}
 	}
 	internal class Enrage : ICommandHandler
@@ -273,7 +273,7 @@ namespace MoarCommands
 				return new[] { "You are not whitelisted to use this command" };
 			}
 
-			return new[] { GetUsage() };
+			return new[] { "There is no SCP-096" };
 		}
 	}
 	internal class Cooldown : ICommandHandler
@@ -327,7 +327,7 @@ namespace MoarCommands
 				return new[] { "You are not whitelisted to use this command" };
 			}
 
-			return new[] { GetUsage() };
+			return new[] { "There is no SCP-096" };
 		}
 	}
 	internal class Docile : ICommandHandler
@@ -382,7 +382,7 @@ namespace MoarCommands
 				return new[] { "You are not whitelisted to use this command" };
 			}
 
-			return new[] { GetUsage() };
+			return new[] { "There is no SCP-096" };
 		}
 	}
 }
