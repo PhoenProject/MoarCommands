@@ -11,6 +11,7 @@ namespace MoarCommands
 		description = "Adds extra commands for admins to use",
 		author = "Phoenix",
 		configPrefix = "mc",
+		version = "1.0",
 		SmodMajor = 3,
 		SmodMinor = 5,
 		SmodRevision = 0
